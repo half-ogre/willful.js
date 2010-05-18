@@ -4,15 +4,15 @@ Willful is a simple spec'ing library for [Node](http://github.com/ry/node "Node"
 
 # Use
 
-* require("willful")
+* require("path/to/lib/willful")
 * add a specification with the "the" method
 * add behaviors with the "will" method
 * signal the end of behavior verification with the "done" method
-* run: node file-with-your-specs.js
+* run: node file-with-your-spec.js
 
 # Example
 
-    require("willful");
+    require("lib/willful");
     var assert = require("assert");
   
     // start a new specification:
@@ -38,8 +38,8 @@ Willful is a simple spec'ing library for [Node](http://github.com/ry/node "Node"
 # To-Do
 
 * add a verbose reporting option
-* add an option to format reports as HTML (and maybe XML)
-* maybe extend Node's built-in asserts (for things like assert.true and assert.null)
+* add an option to format reports as HTML
+* (maybe) extend Node's built-in assertions (to add things like assert.true and assert.null)
 * better component-ize Reporter so that customizing reporting is easier
 
 # Credits

@@ -1,6 +1,6 @@
 # About
 
-Willful is a simple spec'ing library for [Node](http://github.com/ry/node "Node").
+Willful is a simple spec'ing library for [Node](http://github.com/ry/node).
 
 # Use
 
@@ -44,4 +44,4 @@ Willful is a simple spec'ing library for [Node](http://github.com/ry/node "Node"
 
 # Credits
 
-Willful's design took shape as I was using [minitest.js](http://github.com/botanicus/minitest.js "minitest.js"), itself a very good spec'ing library for Node.
+Willful's design took shape as I was using [minitest.js](http://github.com/botanicus/minitest.js), itself a very good spec'ing library for Node.

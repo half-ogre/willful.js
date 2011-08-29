@@ -1,0 +1,8 @@
+{
+  "name"        : "willful.js",
+  "description" : "A simple spec'ing library for Node.",
+  "version"     : "0.1.0",
+  "author"      : "Drew Miller <ego@anglicangeek.com>",
+  "repository"  : "git://github.com/anglicangeek/willful.js",
+  "main"        : "./index.js"
+}

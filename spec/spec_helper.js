@@ -1,2 +1,2 @@
 global.assert = require("assert");
-global.willful = require("../willful");
+global.willful = require("../lib/willful");
